@@ -1,0 +1,37 @@
+alfiepates.me warrant canary - April 2016
+=========================================
+
+i will endeavor to update this as close as possible to the first of every month, and provide an archive of previous canaries.
+
+each canary will include the date, some news headlines (most likely from the NY Times Europe front page, but also possibly the Independent, the Guardian, or the i), a comment on current affairs, and a declaration that I have (up until that point) not received a request for user information from "a government entity or similar". use your common sense.
+
+each canary will also be signed with my current pgp key, as listed at https://alfiepates.me. please take note if these canaries cease being updated, or canary.txt ceases existence altogether.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+As of today, April 1, 2016, I/alfiepates.me has not received a request for user information from a government entity or similar. If I ever receive such a request, I would seek to let the public know it existed.
+
+Today’s NY Times Europe Edition front page:
+
+“Nationalist Serb acquitted of warcrimes”
+“Republicans face risks as states push party agenda”
+“Saudis turn to ISIS, and turn against their country”
+
+the google mail april fool was terrible.
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBAgAGBQJW/ll0AAoJEGVKmKeaxBc0b1wP/RawWOq+5XQA/SBlTUYo3Wlh
+O2+++oZ8Rbcgz4MzNDPHtHH9VB/Cp/YdGjWKXrBGhvYzn+b8dxXaDs0rQldxPKB1
+Fg1v6j9uOGegc9gZdMhdDoq6boLACuLuSzuwRO/VZ9t/Ri/rgNdIDQBfxRz8tqRo
+5D+y7ppwLEAXhJroVbJZZDczegnW/AMfuQkhIQs80SxfCRrVx0Z8ED8qcDK+GQAb
+TgHXbVwotSZRq+uIzb2xgpm6RPhL3+BoRtUOPCA5m3Od4HsErFp3QquQlM78XJ2C
+lxWGf51lteqc79EVZkN7vgHFsH+j2UJ3L7NHgc6mlohyQEbL0HqPdVmNy46bUgeG
+jud7hEEAJtwAPM1FONnCuKl2RQrvKBqflTRz94zC01RPkUHPLbctptAsfVvSChr+
+Q5/98rV5kUmN0nMUQHRE/pTXObS73sjtKKxLshPk5WZzowfFVTC5T6B3NIn2XFGh
++6vqi23GfMz/ADD0vtt1pWW0t5+usGTVGZBXTUCYwSlmt0HgM5DE1EJ5EHlADU+p
+t5rva9M6ZUDZTLSqAN3qAHZgdgcell3wVgA8UQBatOiqdrzHu6lhBBmOXclTwuJe
+cR4hQ258lU0mWDfPon9WR2CrrHkSqZqpaRfv03BYC0b1TiPnBc96dd7awACmBjBV
+xPISiXzO2X7maBk8xY+p
+=8iDa
+-----END PGP SIGNATURE-----
