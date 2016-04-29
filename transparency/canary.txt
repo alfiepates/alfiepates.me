@@ -1,7 +1,7 @@
 alfiepates.me warrant canary - May 2016
 =========================================
 
-i will endeavour to update this as close as possible to the first of every month, and provide an archive of previous canaries.
+i will endeavor to update this as close as possible to the first of every month, and provide an archive of previous canaries.
 
 each canary will include the date, some news headlines (most likely from the NY Times Europe front page, but also possibly the Independent, the Guardian, or the i), a comment on current affairs, and a declaration that I have (up until that point) not received a request for user information from "a government entity or similar". use your common sense.
 
@@ -10,7 +10,7 @@ each canary will also be signed with my current pgp key, as listed at https://al
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-As of today, April 29th, 2016, I/alfiepates.me has not received a request for user information from a government entity or similar. If I ever receive such a request, I would seek to let the public know it existed. This canary is being released two days early, since I may not have access to a trusted computer on May 1st. 
+As of today, April 29th, 2016, I/alfiepates.me has not received a request for user information from a government entity or similar. If I ever receive such a request, I would seek to let the public know it existed. This canary is being released two days early, since I may not have access to a trusted computer on May 1st.
 
 Today’s NY Times Europe Edition front page:
 
