@@ -1,12 +1,3 @@
-alfiepates.me warrant canary - June 2016
-=========================================
-
-i will endeavor to update this as close as possible to the first of every month, and provide an archive of previous canaries.
-
-each canary will include the date, some news headlines (most likely from the NY Times Europe front page, but also possibly the Independent, the Guardian, or the i), a comment on current affairs, and a declaration that I have (up until that point) not received a request for user information from "a government entity or similar". use your common sense.
-
-each canary will also be signed with my current pgp key, as listed at https://alfiepates.me. please take note if these canaries cease being updated, or canary.txt ceases existence altogether.
-
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
